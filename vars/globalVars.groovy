@@ -3,7 +3,7 @@ def a = 5;
 def b = 'bonjour';
   
   public void display() {
-   echo a; 
+   a = a + 3;
   }
   
 }
